@@ -1,0 +1,10 @@
+{
+  "server1": [
+    {"header": "0x5001","handler":  "StreamSayHelloEventHandler"},
+    {"header": "0x6001","handler":  "StreamUpdateProfileEventHandler"}
+  ],
+  "server2": [
+    {"header": "0x5001","handler":  "StreamSayHelloEventHandler"},
+    {"header": "0x6001","handler":  "StreamUpdateProfileEventHandler"}
+  ]
+}
